@@ -1,4 +1,4 @@
-# Godot Third Person Controller Example (Simplest Version)
+# Godot Third Person Controller Example (Template Version)
 
 The purpose of this repo is to demo the absolutely minimal and simplest code necessary to implement a 3D, Third-Person game with full camera control. The intended audience is a game developer who is familiar with Godot, but new to 3D.
 
