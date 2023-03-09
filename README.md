@@ -9,9 +9,7 @@ Note that there is a "**Simplest Version**" on the [`main`](https://github.com/H
 ## Simplest
 The **Simplest Version** is intended for *learning the necessary code to implement a 3D game*. It has flaws and gaps and therefore should be considered far from ready to serve as the base for a game.
 
-*COMING SOON - Godot Asset Library Link*
-
-*COMING SOON - Documentation explaining the **Simplest Version***
+For the tutorial that walks you through how to build this simplest version, see [here](https://murphysdad.substack.com/p/how-to-implement-a-simple-3rd-person).
 
 ## Template
 *IN DEVELOPMENT*
@@ -19,3 +17,5 @@ The **Simplest Version** is intended for *learning the necessary code to impleme
 The **Template Version** is intended to serve as the *base for a 3D game with full third-person camera controls*. The code is slightly more complex than the Simplest Version to include more features desirable for an actual game (e.g. smoothing of turns) and therefore isn't as well-suited for beginner learning.
 
 You can see a browser-based example of the Template Version [here](https://murphysdad.itch.io/godot-third-person-controller-template).
+
+*COMING SOON - Godot Asset Library Link*
